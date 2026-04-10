@@ -79,9 +79,9 @@
 
               chromadb # AI-native open-source embedding database
 
-
               # Add whatever else you'd like here.
               pkgs.basedpyright
+              pkgs.syft
 
               # pkgs.black
               # or
