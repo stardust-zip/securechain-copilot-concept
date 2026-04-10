@@ -180,3 +180,6 @@ fake-docs/
 
 # Data
 data/
+
+# VectorDB
+chroma_db/

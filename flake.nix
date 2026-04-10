@@ -82,6 +82,8 @@
               # Add whatever else you'd like here.
               pkgs.basedpyright
               pkgs.syft
+              openai
+              python-dotenv
 
               # pkgs.black
               # or
